@@ -1,0 +1,50 @@
+{
+	"storyName": "LOVE Letter to minus",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"goldenmenu",
+		""
+	],
+	"songs": [
+		[
+			"Cocoanuts",
+			"golden",
+			[
+				255,
+				193,
+				0
+			]
+		],
+		[
+			"Makin Love",
+			"golden",
+			[
+				255,
+				193,
+				0
+			]
+		],
+		[
+			"Golden",
+			"golden",
+			[
+				255,
+				193,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "poopoo",
+	"hiddenUntilUnlocked": false
+}
